@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hi everyone! Welcome to my Github! 👋
 
-<!--
-**LambdaMamba/LambdaMamba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My CTF write-ups can be found [here!](https://github.com/LambdaMamba/CTFwriteups)
 
-Here are some ideas to get you started:
+If you want to make your own Keystroke Injector using Bash or Arduino, please check out the files and tutorials [here!](https://github.com/LambdaMamba/KeystrokeInjection)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My FPGA projects (including 5 stage pipeline MIPS processor) written in Verilog HDL/SystemVerilog can be found [here!](https://github.com/LambdaMamba/FPGAprojects)
+
+```
+ __________----________----__________.
+<__________----________----__________.}-< 
+```
+
+
+All my official user accounts and contacts:
+
+- Github: https://github.com/LambdaMamba
+- Medium (Primary blog): https://medium.com/@LambdaMamba
+- dev.to (Secondary blog): https://dev.to/lambdamamba
+- Twitter: @LambdaMamba
+- Email: lambdamamba@proton.me
+
+If you see a user named `LambdaMamba` in other places, it's not me!! (Like Reddit, etc.)
