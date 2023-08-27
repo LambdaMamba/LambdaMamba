@@ -18,6 +18,6 @@ All my official user accounts and contacts:
 - Medium (Primary blog): https://medium.com/@LambdaMamba
 - dev.to (Secondary blog): https://dev.to/lambdamamba
 - Twitter: @LambdaMamba
-- Email: lambdamamba@proton.me
+- Email: lambdamamba@proton.me OR lambdamamba99@gmail.com
 
 If you see a user named `LambdaMamba` in other places, it's not me!! (Like Reddit, etc.)
